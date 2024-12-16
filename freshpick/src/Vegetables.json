@@ -1,0 +1,74 @@
+[
+  {
+    "Image" : "/Images/Brinjal.jpeg",
+    "Name" : "Brinjal",
+    "id" : 1,
+    "Price" : "30"
+  },
+  {
+    "Image" : "/Images/Cabbage.jpeg",
+    "Name" : "Cabbage",
+    "id" : 2,
+    "Price" : "20"
+  },
+  {
+    "Image" : "/Images/Capsicum.jpeg",
+    "Name" : "Capsicum",
+    "id" : 3,
+    "Price" : "20"
+  },
+  {
+    "Image" : "/Images/Green Pea.jpeg",
+    "Name" : "Green Pea",
+    "id" : 4,
+    "Price" : "40"
+  },
+  {
+    "Image" : "/Images/Maize(Corn).jpeg",
+    "Name" : "Maize(Corn)",
+    "id" : 5,
+    "Price" : "10"
+  },
+  {
+    "Image" : "/Images/Onion.jpeg",
+    "Name" : "Onions",
+    "id" : 6,
+    "Price" : "70"
+  },
+  {
+    "Image" : "/Images/Spinach.jpeg",
+    "Name" : "Spinach",
+    "id" : 7,
+    "Price" : "20"
+  },
+  {
+    "Image" : "/Images/Tomato.jpeg",
+    "Name" : "Tomato",
+    "id" : 8,
+    "Price" : "50"
+  },
+  {
+    "Image" : "/Images/Carrots.png",
+    "Name" : "Carrots",
+    "id" : 9,
+    "Price" : "45"
+  },
+  {
+    "Image" : "/Images/Potatoes.png",
+    "Name" : "Potatoes",
+    "id" : 10,
+    "Price" : "25"
+  },
+  {
+    "Image" : "/Images/Cucumber.png",
+    "Name" : "Cucumber",
+    "id" : 11,
+    "Price" : "35"
+  },
+  {
+    "Image" : "/Images/Bottle Guard.png",
+    "Name" : "Bottle Guard",
+    "id" : 12,
+    "Price" : "15"
+  }
+]
